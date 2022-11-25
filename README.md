@@ -4,8 +4,8 @@
 - 🌱 Estou aprendendo recentemente a programar a linguagem de Scratch, Java Scriptch, Html5 e GitHub.
 - 💞️ Meu email de contato é ludmila.nunues.silva@escola.pr.gov.br
 
-  ![Scratch](htts://img.shields.io/badge/scratch.4D97FF}style=for-the-badge&logo=Scratch&logoColorwhite)
-  ![JavaScript](https://img.shields.io/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   
   HTML <ing src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" />
   
